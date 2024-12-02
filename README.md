@@ -85,7 +85,7 @@ Replace `"Your_Api_Key"` placeholders in the code or set up a `.env` file as sho
 ## Directory Structure
 
 ```
-jarvis/
+jarvis/ (You Folder Name)
 │
 ├── main.py              # Main application script
 ├── musicLibrary.py      # File Containing a dictionary in python for your favourite songs
